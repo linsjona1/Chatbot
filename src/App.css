@@ -1,0 +1,13 @@
+
+      .app-container{
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        background: linear-gradient(135deg, #0f2027, #335e6d, #2c5364);
+        
+      }
+      
+      

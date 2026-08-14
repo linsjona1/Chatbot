@@ -1,0 +1,28 @@
+.chat-messages-container{
+        margin-top: 20px;
+        flex-grow: 1;
+        overflow: scroll;
+        scrollbar-width: none;
+        /* margin-bottom: 200px; */
+      }
+      .no-messages{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        color: rgb(150, 150, 150);
+        font-size: 20px;
+        background-color: transparent;
+        padding: 10px;
+        border-radius: 10px;
+        margin: 20px 10px;
+        
+
+
+      }
+      .spinner{
+        width: 20px;
+        height: 20px;
+        /* animation: spin 1s linear infinite;*/
+      }
+        
